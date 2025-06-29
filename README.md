@@ -10,7 +10,7 @@ Welcome to my repository for the **Web Development Internship** at **CodSoft**
 
 ### 🔹 Task 1 – Landing Page  
 📁 Folder: [`Task1_LandingPage`](./Task1_LandingPage)  
-🔗 Live Demo: [Click here](https://Vive-Techie.github.io/codsoft/Task1_LandingPage/)  
+🔗 Live Demo: [Click here](https://vive-techie.github.io/CODSOFT/Task1_LandingPage/)  
 🧰 Tech Used: HTML, CSS, Responsive Design, Hover Effects, Background Images  
 
 *More tasks will be added soon... stay tuned!*
@@ -38,14 +38,8 @@ Please do not copy or redistribute without credit.
 ## 🔗 Connect with Me
 
 - 🌐 [Portfolio Website (Coming Soon)]()
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 💻 [GitHub](https://github.com/yourusername)
-
----
-
-> ✨ *"Learning by doing — one project at a time."*  
-> – Vivetha S
-
+- 💼 [LinkedIn](https://linkedin.com/in/vivetha20)
+- 💻 [GitHub](https://github.com/vive-techie)
 ---
 
 ### 📢 Tags:  
