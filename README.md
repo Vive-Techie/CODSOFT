@@ -18,7 +18,11 @@ Welcome to my repository for the **Web Development Internship** at **CodSoft**
 🔗 Live Demo: [Click here](https://vive-techie.github.io/CODSOFT/Task2_Portfolio/)  
 🧰 Tech Used: HTML, CSS, Google Fonts, Responsive Layout, Avatar Integration, Downloadable Resume
 
-*More tasks will be added soon... stay tuned!*
+### 🔹 Task 3 – Calculator  
+📁 Folder: [`Task3_Calculator`](./Task3_Calculator)  
+🔗 Live Demo: [Click here](https://vive-techie.github.io/CODSOFT/Task3_Calculator/)  
+🧰 Tech Used: HTML, CSS Grid, JavaScript (event delegation), Violet-Pink Theme, Responsive UI
+
 
 ---
 
