@@ -38,8 +38,8 @@ Please do not copy or redistribute without credit.
 ## 🔗 Connect with Me
 
 - 🌐 [Portfolio Website (Coming Soon)]()
-- 💼 [LinkedIn](https://linkedin.com/in/vivetha20)
-- 💻 [GitHub](https://github.com/vive-techie)
+- 💼 [LinkedIn](https://linkedin.com/in/vivetha20/)
+- 💻 [GitHub](https://github.com/vive-techie/)
 ---
 
 ### 📢 Tags:  
