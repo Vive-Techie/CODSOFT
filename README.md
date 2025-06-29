@@ -52,4 +52,4 @@ Please do not copy or redistribute without credit.
 ---
 
 ### 📢 Tags  
-#codsoft #webdevelopment #internship2025 #frontend #portfolio #viveverse
+#codsoft #webdevelopment #internship2025 #frontend #landingpage #viveverse #portfolio #calculator
