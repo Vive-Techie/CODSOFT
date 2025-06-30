@@ -11,17 +11,17 @@ Welcome to my repository for the **Web Development Internship** at **CodSoft**
 ### 🔹 Task 1 – Landing Page  
 📁 Folder: [`Task1_LandingPage`](./Task1_LandingPage)  
 🔗 Live Demo: [Click here](https://vive-techie.github.io/CODSOFT/Task1_LandingPage/)  
-🧰 Tech Used: HTML, CSS, Responsive Design, Hover Effects, Background Images
+🧰 Tech Used: HTML, CSS, Hover Effects, Background Images
 
 ### 🔹 Task 2 – Personal Portfolio  
 📁 Folder: [`Task2_Portfolio`](./Task2_Portfolio)  
 🔗 Live Demo: [Click here](https://vive-techie.github.io/CODSOFT/Task2_Portfolio/)
-🧰 Tech Used: HTML, CSS, Google Fonts, Responsive Layout, Avatar Integration, Downloadable Resume
+🧰 Tech Used: HTML, CSS, Avatar Integration, Downloadable Resume
 
 ### 🔹 Task 3 – Calculator  
 📁 Folder: [`Task3_Calculator`](./Task3_Calculator)  
 🔗 Live Demo: [Click here](https://vive-techie.github.io/CODSOFT/Task3_Calculator/)  
-🧰 Tech Used: HTML, CSS Grid, JavaScript (event delegation), Violet-Pink Theme, Responsive UI
+🧰 Tech Used: HTML, CSS Grid, JavaScript (event delegation), Violet-Pink Theme
 
 
 ---
