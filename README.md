@@ -15,7 +15,7 @@ Welcome to my repository for the **Web Development Internship** at **CodSoft**
 
 ### 🔹 Task 2 – Personal Portfolio  
 📁 Folder: [`Task2_Portfolio`](./Task2_Portfolio)  
-🔗 Live Demo: [Click here](https://vive-techie.github.io/CODSOFT/Task2_Portfolio/)  
+🔗 Live Demo: [Click here](https://vive-techie.github.io/CODSOFT/Task2_Portfolio/)
 🧰 Tech Used: HTML, CSS, Google Fonts, Responsive Layout, Avatar Integration, Downloadable Resume
 
 ### 🔹 Task 3 – Calculator  
